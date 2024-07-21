@@ -8,3 +8,4 @@ html2text
 clean-text
 unidecode
 chromadb
+streamlit
